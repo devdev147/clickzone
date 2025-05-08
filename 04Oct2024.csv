@@ -1,0 +1,4 @@
+trytblid,studentid,academicsession,roll,name,class,stream,examname,subject,maxmarks,marksobtained,percent
+5,5,2023-24,5,Stud05,12C,PCM,UT1,Eng,70,20,94
+10,5,2023-24,5,Stud05,12C,PCM,UT1,Hindi,80,30,41.5
+15,5,2023-24,5,Stud05,12C,PCM,UT1,Math,100,40,
